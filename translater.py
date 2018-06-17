@@ -38,7 +38,7 @@ def get_info(url):
 
 if __name__ == '__main__':
     print('+'*50)
-    print('='*18 + '欢迎使用艾超翻译' + '='*18)
+    print('='*18 + '欢迎使用超超翻译' + '='*18)
     print('+' * 50)
     init(autoreset=True)
     yuan_yin = [
