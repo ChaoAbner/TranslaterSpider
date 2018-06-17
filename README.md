@@ -1,0 +1,2 @@
+# TranslaterSpider
+利用爬取金山词典的数据实现一个翻译程序
